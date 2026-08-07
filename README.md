@@ -54,11 +54,3 @@ A highly scalable link management system with stateless authentication and traff
 
 ---
 
-### 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedang2247&show_icons=true&theme=radical)](https://github.com/vedang2247)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedang2247&layout=compact&theme=radical)](https://github.com/vedang2247)
-
----
-
-📫 **Let's Connect:** [LinkedIn Profile](www.linkedin.com/in/vedang-masne-b6ab14332) 
