@@ -30,7 +30,7 @@ I am a third-year Computer Science Engineering student specializing in scalable 
 ### 🏆 Competitive Programming & DSA
 I maintain a rigorous daily problem-solving routine, currently working through structured algorithmic paradigms like Striver's A2Z DSA sheet.
 
-* **Codeforces:** Specialist (1460)
+* **Codeforces:** Expert (1636)
 * **CodeChef:** 3-Star Coder
 
 ---
